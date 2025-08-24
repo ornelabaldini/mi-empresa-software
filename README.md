@@ -14,20 +14,6 @@ El sitio está construido con **HTML y CSS puro**, respetando las siguientes res
 
 ---
 
-## Estructura del proyecto
-
-mi-empresa-software/
-├─ index.html ← Página principal (Home)
-├─ servicios.html ← Comparativa de planes / Servicios
-├─ portfolio.html ← Casos de éxito / Portfolio
-├─ blog.html ← Artículo tipográfico / Blog
-├─ contacto.html ← Formulario validado / Contacto
-└─ css/
-└─ estilos.css ← Hoja de estilos compartida
-
-
----
-
 ## Características principales
 
 - **Inicio (Home):** Hero con llamada a la acción, tres servicios destacados con pseudo-elementos decorativos.
